@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="680" viewBox="0 0 640 680" fill="none">
+  <rect width="640" height="680" rx="30" fill="#F0F4F3"/>
+  <circle cx="320" cy="296" r="146" fill="#E3EEEB"/>
+  <rect x="255" y="132" width="130" height="270" rx="24" fill="#183143"/>
+  <rect x="265" y="146" width="110" height="239" rx="17" fill="#F6F8F6"/>
+  <rect x="272" y="165" width="96" height="207" rx="12" fill="#C4E3DC"/>
+  <circle cx="320" cy="268" r="33" fill="#6BAFA4"/>
+  <circle cx="320" cy="268" r="17" fill="#E4F2ED"/>
+  <rect x="297" y="151" width="46" height="5" rx="2.5" fill="#183143"/>
+  <text x="320" y="484" text-anchor="middle" fill="#203846" font-family="Arial,sans-serif" font-size="20" font-weight="700">JAMAL PHONE</text>
+  <text x="320" y="515" text-anchor="middle" fill="#72818A" font-family="Arial,sans-serif" font-size="14">TECH FOR EVERYDAY</text>
+</svg>

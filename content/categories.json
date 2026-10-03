@@ -1,0 +1,12 @@
+{
+  "categories": [
+    {"slug":"smartphones","en":"Smartphones","ar":"هواتف ذكية"},
+    {"slug":"accessories","en":"Accessories","ar":"إكسسوارات"},
+    {"slug":"smartwatches","en":"Smart Watches","ar":"ساعات ذكية"},
+    {"slug":"audio","en":"Audio","ar":"سماعات وصوتيات"},
+    {"slug":"chargers","en":"Chargers & Power","ar":"شواحن وطاقة"},
+    {"slug":"tablets","en":"Tablets & Computers","ar":"أجهزة لوحية وحواسيب"},
+    {"slug":"gaming","en":"Gaming","ar":"ألعاب وتقنية"},
+    {"slug":"other-tech","en":"Other Tech","ar":"منتجات تقنية أخرى"}
+  ]
+}

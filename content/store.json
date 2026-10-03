@@ -1,0 +1,19 @@
+{
+  "name": {
+    "en": "Jamal Phone",
+    "ar": "جمال فون"
+  },
+  "whatsapp": "",
+  "phone": "",
+  "address": "",
+  "mapsUrl": "https://maps.app.goo.gl/Z2TrPQsnJxeKJ9gp9?g_st=ac",
+  "hours": "",
+  "instagram": "",
+  "facebook": "",
+  "tiktok": "",
+  "logo": "content/brand/logo.svg",
+  "favicon": "content/brand/logo.svg",
+  "description": "كل ما تحتاجه لعالمك الرقمي، في مكان واحد.",
+  "heritageStory": "في جمال فون، نؤمن أن العثور على التقنية المناسبة يجب أن يكون تجربة سهلة وواضحة. لهذا نجمع الهواتف الذكية والإكسسوارات والأجهزة التقنية في مكان واحد.\n\nنحرص على عرض تفاصيل كل منتج — من المواصفات والحالة إلى الضمان — لتتمكن من المقارنة واتخاذ قرار يناسب احتياجك.\n\nلديك سؤال؟ تواصل معنا مباشرة لمعرفة السعر والتوفر ومساعدتك في اختيار ما يلائمك.",
+  "whatsappMessageTemplate": "مرحبًا، أود الاستفسار عن [Product Name]. هل المنتج متوفر؟"
+}
