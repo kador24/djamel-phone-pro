@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.DS_Store
+
+.env.production
+.env
+.env.local
+.env.*.local
+
+# Local environment secrets
+.env.production
+.env
+.env.local
+.env.*.local
+
+# Generated TypeScript build cache
+*.tsbuildinfo
